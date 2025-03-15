@@ -1,3 +1,7 @@
+# Note
+
+This repository moved to codeberg https://codeberg.org/prefec2/jira-github-ticket-migrator and will be developed to not only support ticket migration from Jira to GitHub, but also to Codeberg and other platforms. The repository will be archived on github. 
+
 <p align="center">
   <img alt="NSIDC logo" src="https://nsidc.org/themes/custom/nsidc/logo.svg" width="150" />
 </p>
