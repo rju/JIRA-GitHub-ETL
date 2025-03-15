@@ -1,3 +1,7 @@
+# Final note
+
+I moved this fork to https://codeberg.org/prefec2/jira-github-ticket-migrator due to current developments regarding AI and political turmoil in the US. I will also extend the tool to support migration from Jira to Codeberg tickets.
+
 <p align="center">
   <img alt="NSIDC logo" src="https://nsidc.org/themes/custom/nsidc/logo.svg" width="150" />
 </p>
